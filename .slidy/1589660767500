@@ -1,0 +1,4 @@
+lib/app/modules/login/abertura/abertura_page.dart
+test/app/modules/login/abertura/abertura_page_test.dart
+lib/app/modules/login/abertura/abertura_bloc.dart
+test/app/modules/login/abertura/abertura_bloc_test.dart
